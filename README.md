@@ -1,7 +1,7 @@
 # rn-sass
 Command line converting sass/css file to react-native StyleSheet js file.
 
-**Particle code is from https://github.com/TOP-Chao/atom-react-native-css**
+**Partial code is from https://github.com/TOP-Chao/atom-react-native-css**
 
 ## Install
 
