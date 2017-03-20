@@ -1,0 +1,37 @@
+{
+  "name": "rn-sass",
+  "version": "0.0.1",
+  "description": "Command line converting sass/css file to react-native StyleSheet js file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbing/rn-sass.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "sass",
+    "css",
+    "util",
+    "command"
+  ],
+  "dependencies": {
+    "argv": "0.0.2",
+    "consistent-path": "^2.0.3",
+    "css": "^2.2.1",
+    "glob": "^7.0.3",
+    "minimatch": "^3.0.0",
+    "parse-import": "^2.0.0",
+    "to-camel-case": "^0.2.1"
+  },
+  "author": "Chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisbing/rn-sass/issues"
+  },
+  "homepage": "https://github.com/chrisbing/rn-sass#readme"
+}
