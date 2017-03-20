@@ -5,7 +5,7 @@ Command line converting sass/css file to react-native StyleSheet js file.
 
 ## Install
 
-    npm install -g @chrisbing/rn-sass
+    npm install -g https://github.com/chrisbing/rn-sass.git
 
 ## Usage
 
