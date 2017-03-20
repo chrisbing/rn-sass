@@ -1,6 +1,6 @@
-/**
- * Created by xujian1 on 20/03/2017.
- */
+#!/usr/bin/env node
+
+
 var argv = require('argv')
 var path = require('path')
 
